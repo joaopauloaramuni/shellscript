@@ -1,2 +1,2 @@
-# shellscript
+# Shell Script
 Repo Shell Script
