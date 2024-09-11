@@ -1,0 +1,23 @@
+Escreva um script (arquivo .sh), que resolva a seguinte questão:
+
+Script para verificar:
+	1) Qual é o maior número contido em uma lista numérica;
+	2) Qual é o menor número contido em uma lista numérica;
+	3) Qual a soma dos números contidos em uma lista numérica;
+	4) Se determinada letra está contida em uma lista de strings.
+	
+	Exemplo: listaNumerica="10 45 5 100 35 11"
+	Resultado: Maior número: 100
+		   Menor número: 5
+		   Soma de todos os números: 206
+	listaStrings="A B C D H J Y Z"
+	letra: "D"
+	Resultado: "D está contido na lista."
+	letra: "U"
+	Resultado: "U não está contido na lista."	
+
+Dica: Você precisará utilizar um loop do tipo forEach. Veja o exer34_forEach.sh como exemplo de apoio.
+O forEach irá executar uma iteração para cada item contido na lista passada para ele.
+
+Você deve entregar o arquivo no SINEF, caso haja problemas com o envio do arquivo com a extensão .sh, 
+entregue com a extensão .txt.

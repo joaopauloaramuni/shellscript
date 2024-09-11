@@ -1,0 +1,16 @@
+Escreva de forma dissertativa argumentativa, em um arquivo .doc ou .txt, 
+O passo a passo da execução e os fluxos possíveis de um script de sua preferência.
+
+O script deve ter um tamanho aproximado a atividade auto instrucional (AAI).
+
+Como sugestão, pegue o próprio script da sua AAI e explique da forma mais detalhada possível
+o que cada linha de seu script está fazendo.
+
+Essa atividade tem como objetivo treinar a capacidade do administrador de redes de explicar
+o que seus scripts fazem.
+
+Frequentemente precisamos ajudar colegas de equipe a entender algum script, por esse motivo,
+é extramamente importante entender alguns conceitos teóricos e praticar a nossa capacidade 
+de argumentação.
+
+Não esqueça de colocar o código do script também no arquivo .doc ou .txt.

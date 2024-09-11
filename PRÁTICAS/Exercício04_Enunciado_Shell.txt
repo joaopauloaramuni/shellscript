@@ -1,0 +1,45 @@
+Escreva um script (arquivo .sh), que resolva a seguinte questão:
+
+	Escolha algum dos exercícios (sem funções) vistos em laboratório 
+	e reescreva o mesmo (refatore) utilizando funções com parâmetros.
+
+	Exemplo:
+	
+	#Sem função
+
+	if rm $1
+	
+then
+  
+	  echo -e "\n\n Arquivo $1 removido com sucesso"
+	
+else
+  
+	  echo -e "\n\n Arquivo $1 nao pode ser removido"
+
+	fi
+
+
+	
+	#Com função
+	
+	function removerArquivo(){
+	  if rm $1
+	  
+then
+  
+	    echo -e "\n\n Arquivo $1 removido com sucesso"
+	  
+else
+  
+	    echo -e "\n\n Arquivo $1 nao pode ser removido"
+
+	  fi
+
+	}
+	
+	#Chamada da função com o parâmetro $1
+	removerArquivo $1
+
+Você deve entregar o arquivo no SINEF, caso haja problemas com o envio do arquivo com a extensão .sh, 
+entregue com a extensão .txt.

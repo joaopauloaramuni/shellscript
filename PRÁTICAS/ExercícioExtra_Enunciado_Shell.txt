@@ -1,0 +1,14 @@
+O script abaixo foi desenvolvido para testar uma determinada senha digitada pelo usuário.
+
+#!/bin/bash
+
+echo "Por favor digite a senha para logar no sistema"
+read SENHA
+
+if ["$SENHA" = "123"]; then
+	echo "Senha correta, logado no sistema"
+else
+	echo "Senha incorreta"
+fi
+
+Reescreva o script acima utilizando o comando dialog e a opção --passwordbox.

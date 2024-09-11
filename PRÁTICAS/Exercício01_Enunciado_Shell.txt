@@ -1,0 +1,16 @@
+Escreva um script (arquivo .sh), que resolva a seguinte questão:
+
+Script para verificar qual número é o maior de uma série de 3 números passados como parâmetro.
+
+	Exemplo de chamada: sh maiorNumero.sh 5 10 4
+	Resultado: O maior número é: 10
+
+Dica: Você precisará utilizar uma estrutura if elif else. Sem a necessidade de loops.
+
+Desafio: Consistência: Tente verificar o número de argumentos passados como parâmetro para o script utilizando o $#.
+Exemplo de chamada: sh maiorNumero.sh 5 10
+Resultado: São necessários 3 parâmetros. Tente novamente.
+Dica: Você precisará do comando exit para não executar o restante do script.
+
+Você deve entregar o arquivo no SINEF, caso haja problemas com o envio do arquivo com a extensão .sh, 
+entregue com a extensão .txt.

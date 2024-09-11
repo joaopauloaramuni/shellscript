@@ -1,0 +1,7 @@
+Escreva um script (arquivo .sh), que utilize a barra de progresso (--gauge) ao compactar um arquivo.
+
+Referências:
+
+http://aurelio.net/shell/dialog/#gauge
+
+Exercício zipTop da lista.

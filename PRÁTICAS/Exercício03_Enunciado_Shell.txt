@@ -1,0 +1,10 @@
+Escreva um script (arquivo .sh), que resolva a seguinte questão:
+
+Suponha que você comece com 1 real e vá duplicando seu dinheiro todos os dias. 
+Quantos dias iriam levar para você juntar 1 milhão de reais?
+
+Dica: Você precisará utilizar algum dos loop's que aprendemos na última aula.
+Com um único loop, sem a necessidade de cadeias condicionais if e else, você resolverá este problema.
+
+Você deve entregar o arquivo no SINEF, caso haja problemas com o envio do arquivo com a extensão .sh, 
+entregue com a extensão .txt.

@@ -1,0 +1,1 @@
+Escreva um script (arquivo .sh), que implemente um menu (dialog) para o exercício exer22_zipTOP.sh.

@@ -1,0 +1,14 @@
+Escreva um script (arquivo .sh), que resolva a seguinte questão:
+
+Script para ler um número digitado via teclado pelo usuário e verificar se esse número é par ou ímpar.
+
+	Exemplo de chamada: sh parOuImpar.sh
+	Resultado: Digite o número que queira saber se é par ou ímpar:
+		   O número X que você digitou é par/ímpar.
+
+Dica: Você precisará utilizar uma estrutura if else simples. 
+Resolva o problema verificando o resto da divisão do número digitado por 2 (X % 2).
+Para fazer a verificação do resto, utilize a função mod (%) do shell.
+
+Você deve entregar o arquivo no SINEF, caso haja problemas com o envio do arquivo com a extensão .sh, 
+entregue com a extensão .txt.
