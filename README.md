@@ -1,4 +1,4 @@
-# Shell Script
+-----
 
 <div align="center">
     <table>
@@ -25,6 +25,18 @@ Disciplina de Desenvolvimento de Scripts II do Curso Superior de Tecnologia em R
 - 1°Sem 2016
 - 2°Sem 2016
 
-https://aurelio.net/shell
-<br>https://novatec.com.br/livros/programacao-shell-linux-13ed/
-<br>https://www.linkedin.com/in/juliocezarneves/
+-----
+
+### Sumário:
+- [Aulas em PDF](https://github.com/joaopauloaramuni/shellscript/tree/main/PDF)
+- [Canivete](https://github.com/joaopauloaramuni/shellscript/tree/main/CANIVETE)
+- [Práticas](https://github.com/joaopauloaramuni/shellscript/tree/main/PRA%CC%81TICAS)
+- [Projetos](https://github.com/joaopauloaramuni/shellscript/tree/main/PROJETOS)
+- [Atividade Autoinstrucional](https://github.com/joaopauloaramuni/shellscript/tree/main/AAI)
+
+#### Links úteis:
+- [Aurelio - Shell Script](https://aurelio.net/shell)
+- [Livro: Programação Shell Linux - 13ª Edição (Novatec)](https://novatec.com.br/livros/programacao-shell-linux-13ed/)
+- [Perfil LinkedIn: Julio Cesar Neves](https://www.linkedin.com/in/juliocezarneves/)
+
+-----
